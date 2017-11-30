@@ -19,4 +19,4 @@ There are 6 clean tables in this zip file:
 In this file, we present all our visualizations in the method of Tableau Story
 
 ## Final Deliverable.md
-In this markdown file, we introduce our topic and explain why we choose this topic, and the meaning behind this data. Besides, we also present all our plots, and introduce all challenges faced during our progress.
+In this markdown file, we introduce our topic and explain why we choose this topic, and the meaning behind this data. Besides, we also introduce all challenges faced during our progress.
