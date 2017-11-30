@@ -26,8 +26,6 @@ make effort to this meaningful process.
 
 The greatest challenge we meet is to clean and reform data for further analysis. We are faced with over hundreds of relevant datasets. We scan them one by one and choose these 6 dataset. Those initial datasets are in different forms and thus quite messy. We need to transform them into the unified and tidy structure. Besides, since the 6 datasets include different years, and we choose the trace the data for year 2000, 2005, 2010, 2015,2016. Finally, we integrate six different datasets into one final joined table. The data preparation phase is quite challenge but also laid a good foundation for our further analysis.
 
-## Plots and Workbooks
-
 ## Reference:
 
 Annual Consumer Price Index: http://datahub.io/core/cpi
