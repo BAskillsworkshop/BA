@@ -15,7 +15,7 @@ Besides, the scale, the depth, and the analyzability of datasets the are our sec
 
 ## Meaning
 
-##### As for the meaning of this domain, we believe that one of the influential power of data
+As for the meaning of this domain, we believe that one of the influential power of data
 analysis is telling the story behind the data to the public. Using visualization method, the
 situation of the country that is far from us can be easily seen. Comparing the wealth
 and disease rates among different countries, people can understand what happened in
@@ -24,13 +24,15 @@ make effort to this meaningful process.
 
 ## Challenges
 
-##### The greatest challenge we meet is to clean and reform data for further analysis. We are faced with over hundreds of relevant datasets. We scan them one by one and choose these 6 dataset. Those initial datasets are in different forms and thus quite messy. We need to transform them into the unified and tidy structure. Besides, since the 6 datasets include different years, and we choose the trace the data for year 2000, 2005, 2010, 2015,2016. Finally, we integrate six different datasets into one final joined table. The data preparation phase is quite challenge but also laid a good foundation for our further analysis.
+The greatest challenge we meet is to clean and reform data for further analysis. We are faced with over hundreds of relevant datasets. We scan them one by one and choose these 6 dataset. Those initial datasets are in different forms and thus quite messy. We need to transform them into the unified and tidy structure. Besides, since the 6 datasets include different years, and we choose the trace the data for year 2000, 2005, 2010, 2015,2016. Finally, we integrate six different datasets into one final joined table. The data preparation phase is quite challenge but also laid a good foundation for our further analysis.
 
 ## Plots and Workbooks
 
 ## Reference:
 
-#Annual Consumer Price Index: http://datahub.io/core/cpi
-#Country, Regional and World GDP: http://datahub.io/core/gdp 
-#World Development Indicators:
-#http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.CD&country=
+Annual Consumer Price Index: http://datahub.io/core/cpi
+<br>
+Country, Regional and World GDP: http://datahub.io/core/gdp 
+<br>
+World Development Indicators:
+http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.CD&country=
